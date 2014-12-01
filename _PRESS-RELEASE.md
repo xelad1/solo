@@ -18,27 +18,50 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Game Title: "Okizeme!"
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
+  Learn to read the mind of your opponent!
+
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+
+  Okizeme! is a fun game that will train your mind reading abilities (otherwise known as yomi in Japan)!  Stemming from popular fighting game mechanics, Okizeme! strips away all the complexity of learning difficult combos and advanced techniques.  Okizeme! allows you to focus on what actually makes fighting games fun:  reading the mind of your opponent.  You will start out determining who gets the initiative by a simple game of rock paper scissors,
+  from there you will be launched into the Okizeme! guessing game where each correct guess leads to a lowering of your opponents' life bar and 
+  further initiative (also known as momentum).  
 
 ## Problem ##
   > Describe the problem your product solves.
 
+  This product exposes the heart of fighting games while reducing the amount of time required to become "good".  A lot of the fun involved in
+  fighting games revolves around guessing your opponent's next attacks and responding appropriately.  Unfortunately most of your time is lost
+  in practice, mastering the physical (and not the mental) aspects.  
+
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+	
+This game will allow players to play this "fun" component on the fly, with a relatively minimal learning curve.  At its core, however, this game will be highly competitive, the more skilled player should always win. 
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
+  "This game is awesome.  You absolutely have to play it.  Highly addictive, takes only minutes to learn, challenge your friends!"
+
 ## How to Get Started ##
   > Describe how easy it is to get started.
+
+  To get started just find an opponent and play.  You will each be given limited time to make your guess (default mode is 3 seconds).  
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
+  "This game is addicting and fun!  I've always wanted to play more competitive games, but have been intimidated by the steep learning curve involved.
+  This game lets me jump right in and play a competitive game, without intimidating me with game mechanics."
+
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+
+  Check out Okizeme! in the Google Play Store or the iTunes Store.  Challenge your friends today!
+
